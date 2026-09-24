@@ -98,7 +98,7 @@ A planning estimate of about 12 weeks, confirmed as workable; speed up or slow d
 | M3 | Subsonic aero module | 3-5 | Cd and CP match OpenRocket subsonic |
 | M4 | Supersonic aero module | 5-8 | Cd(M) within target of RASAero II above Mach 1.3 |
 | M5 | Transonic blend and 3-DOF | 8-10 | continuous Cd through Mach 1; wind and launch angle work |
-| M6 | Validation report and cleanup | 11-12 | success criteria S1-S7 evaluated and documented |
+| M6 | Validation report and cleanup | 11-12 | success criteria S1-S8 evaluated and documented |
 
 ---
 
