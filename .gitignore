@@ -1,0 +1,20 @@
+# MATLAB autosave and editor backup files
+*.asv
+*.m~
+
+# Compiled MEX binaries (Windows, Linux, Intel Mac, Apple silicon Mac)
+*.mexw64
+*.mexa64
+*.mexmaci64
+*.mexmaca64
+
+# Simulink and MATLAB Coder build output
+slprj/
+codegen/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Simulation output
+/results/
